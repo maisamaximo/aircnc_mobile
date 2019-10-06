@@ -22,6 +22,13 @@ Aircnc is a custom clone that aims to apply the knowledge and technologies used 
 
 <h3 align="center"> First of all, you must run the backend and front end application: <a href="https://github.com/maisamaximo/aircnc_backend">aircnc_backend </a>, <a href="https://github.com/maisamaximo/aircnc_frontend">aircnc_frontend</a> </h3>
 
+<img src="./img/mobile_1.jpeg" height="150" width="300">
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+
+
 
 ## Install
 
@@ -42,7 +49,7 @@ This application was tested using an iphone XR physical device.
 You will need to install the expo client application on your device.
 
 When running the project will be opened in the browser a site with adynamic ip for connection (example: exp: //192.168.3.105: 19000)
-You will need to change it in the frontend and mobile project to work and sync with your device.
+You will need to change it in the backend, frontend and mobile project to work and sync with your device.
 
 ## Author
 
