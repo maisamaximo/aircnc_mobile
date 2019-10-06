@@ -34,6 +34,16 @@ yarn install
 ```sh
 yarn start
 ```
+
+###### Important to know
+
+This application was tested using an iphone XR physical device.
+
+You will need to install the expo client application on your device.
+
+When running the project will be opened in the browser a site with adynamic ip for connection (example: exp: //192.168.3.105: 19000)
+You will need to change it in the frontend and mobile project to work and sync with your device.
+
 ## Author
 
 🙆 **Maisa Maximo**
