@@ -20,7 +20,7 @@ Aircnc is a custom clone that aims to apply the knowledge and technologies used 
 <p align="center"><strong>Fun Fact:</strong> <em>the 'c' of aircnc are references to 'code' and 'coffee'.</em>
 </p>
 
-<h3 align="center"> Fist of all, you must run the backend and front end application: <a href="https://github.com/maisamaximo/aircnc_backend">aircnc_backend </a>, <a href="https://github.com/maisamaximo/aircnc_frontend">aircnc_frontend</a> </h3>
+<h3 align="center"> First of all, you must run the backend and front end application: <a href="https://github.com/maisamaximo/aircnc_backend">aircnc_backend </a>, <a href="https://github.com/maisamaximo/aircnc_frontend">aircnc_frontend</a> </h3>
 
 
 ## Install
